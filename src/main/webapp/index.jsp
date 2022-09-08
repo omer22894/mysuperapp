@@ -1,6 +1,8 @@
 <html>
 <body>
 <h2>Hello World!</h2>
-<h2>Welcome to DevOps  - Version V5.4 ..Done by engineer md omer faruq for Testing another Version using Continous Integration , Jenkins</h2>
+<h2>Welcome to dockers on GCP Cloud</h2>
+<h2>testing changes for continuous release</h2>
+<h2>version = 2.0 for testing !!!!</h2>
 </body>
 </html>
