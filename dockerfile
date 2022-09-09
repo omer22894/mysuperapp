@@ -1,5 +1,5 @@
-#This is a sample docker file
-FROM ubuntu
+FROM tomcat
 
-RUN apt-get update -y
-#RUN ["apt-get update -y"]
+EXPOSE 8080
+
+COPY ./target/mywebapp.war /usr/local/tomcat/webapps/ion.war
